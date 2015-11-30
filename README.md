@@ -1,2 +1,0 @@
-# Chess
-Java Chess game
